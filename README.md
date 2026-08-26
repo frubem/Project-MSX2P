@@ -33,7 +33,7 @@ architecture while documenting the full hardware development process.
 ## Instructions
 Includes assembling instructions and smoke test
 
-## Software
+## Programs
 Includes utilities
 
 
